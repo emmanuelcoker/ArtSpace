@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ArtSpace</string>
+    <string name="previous">previous</string>
+    <string name="next">Next</string>
+    <string name="chinese_flower_girl">Chinese Flower girl</string>
+    <string name="zhang_tong">Zhang Tong</string>
+    <string name="polygon_deer">Polygon Deer</string>
+    <string name="hapzing">Hapzing</string>
+    <string name="the_iris">The Iris</string>
+    <string name="jerry_king">Jerry King</string>
+    <string name="bicycle_wall_art">Bicycle Wall Art</string>
+    <string name="ken_hart">Ken Hart</string>
+    <string name="wood_pecker">Wood Pecker</string>
+    <string name="finny">Finny</string>
+</resources>
